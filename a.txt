@@ -1,4 +1,14 @@
-TEXTO
+
 Entendendo o HEAD
 
 estas linha foi modificado no ramo master
+outra coisa adicionada
+
+mais outra
+
+mais outra coisa
+
+mais coisa adiconada
+
+esta linha foi modificada no ramo teste
+
